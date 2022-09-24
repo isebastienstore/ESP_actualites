@@ -1,0 +1,126 @@
+body{
+    background-attachment: fixed;
+    width: 80%;
+    margin: auto;
+    font-family: Chilanka;
+    /*min-width: 50%;
+    max-width: 90%;*/
+}
+
+h1
+{
+    width: 60%;
+    margin: auto;
+    padding-top: 50px;
+    margin-bottom: 30px;
+    font-family: Chilanka;
+    color: cadetblue;
+}
+
+
+#manga
+{
+    padding-right: 10px;
+}
+
+#id1
+{
+    display: flex;
+    justify-content: space-around;
+}
+
+nav
+{
+    border: 1.5px cadetblue dotted;
+    border-radius: 10px;
+    box-shadow: 3px 3px 10px gray;
+    height: 50px;
+    margin-right: 0px;
+    background-color: silver;
+
+}
+
+nav a
+{
+    text-decoration: none;
+    margin-right: 50px;
+  /*  text-align: justify;*/
+
+}
+a{
+    text-decoration: none;
+    ;
+}
+
+nav ul
+{
+    list-style-type: none;
+    display: flex;
+    /*justify-content:space-between ;
+    text-align: right;*/
+}
+
+nav li
+{
+    font-size: 1.5em;
+}
+
+aside
+{
+    border: 2px cadetblue dotted;
+    border-radius: 20px;
+    box-shadow: 6px 6px 10px gray;
+    word-wrap: break-word;
+    margin-right: 60px;
+    margin-top: 50px;
+    padding-left: 10px;
+    background-color: silver;
+}
+
+article
+{
+    padding-left: 50px;
+    padding-right: 30px;
+    margin-right: 20px;
+    text-align: justify;
+    background-color: silver;
+    border: 2px cadetblue dotted;
+    border-radius: 20px;
+    box-shadow: 3px 3px 10px gray;
+}
+
+section
+{
+    display: flex;
+    margin-bottom: 25px;
+    margin-top: 15px;
+}
+#h2{
+    color: blue;
+    margin: auto;
+    width: 60%;
+    margin-top: 20px;
+    font-family: Chilanka;
+}
+ h3
+ {
+    text-align: center;
+
+
+ }
+ .mesarticles{
+     border: 2px cadetblue dotted;
+     border-radius: 20px;
+     box-shadow: 3px 3px 10px gray;
+     margin-bottom: 7px;
+     margin-top: 15px;
+     padding-left: 25px;
+     background-color: silver;
+     ;
+ }
+#aaa
+{
+text-align : center;
+color : cadetblue;
+font-family: Chilanka;
+}
